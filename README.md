@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **janimiyarj@gmail.com**
 
-- ⚡ Fun fact **Fun Fact: Data scientists spend about 80% of their time cleaning and preparing data, and only 20% of their time actually analyzing it. So, if you think data science is all about making groundbreaking discoveries, think again—it's mostly about scrubbing dirty data!**
+- ⚡ Fun fact: Data scientists spend about 80% of their time cleaning and preparing data, and only 20% of their time actually analyzing it. So, if you think data science is all about making groundbreaking discoveries, think again—it's mostly about scrubbing dirty data!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
