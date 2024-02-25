@@ -10,9 +10,6 @@
 - ⚡ **Fun fact:** Data scientists spend about 80% of their time cleaning and preparing data, and only 20% of their time actually analyzing it. So, if you think data science is all about making groundbreaking discoveries, think again—it's mostly about scrubbing dirty data!
 
 
-Here's the properly formatted code:
-
-```html
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
@@ -203,7 +200,5 @@ Here's the properly formatted code:
   </a>
 
 </p>
-```
 
-This code snippet now follows proper HTML syntax and indentation for better readability.
 
