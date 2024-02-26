@@ -1,11 +1,11 @@
 <h1 align="left">Hello 👋, I'm Jani Miya Shaik</h1>
 <p>I am a data enthusiast and motivated student pursuing a Master's degree in Big Data Analytics with a track record of delivering data-driven solutions to challenging business problems. I have expertise in collecting, cleaning, analyzing, visualizing, and modeling data using several AI technologies such as Machine Learning, Python, R, SQL, and Tableau. Building predictive models using machine learning techniques such as regression, classification, clustering, and dimensionality reduction constitutes one of my expertise.</p><p>Additionally, I developed interactive dashboards and reports with Tableau and PowerBI to share insights and discoveries with stakeholders. I am a quick learner who is constantly willing to broaden my skills and knowledge to improve my data science capabilities. I am an effective communicator and team player who can collaborate with cross-functional teams to deliver data-driven solutions.</p>
 
-- 🌱 **I’m currently learning** NLP, MLOPS,
+- 🌱 **I’m currently learning:** NLP, MLOPS,
 
-- 💬 **Ask me about** Data Science, Data Analysis, Data Engineering, Machine Learning, Deep Learning, MLOps
+- 💬 **Ask me about:** Data Science, Data Analysis, Data Engineering, Machine Learning, Deep Learning, MLOps
 
-- 📫 **How to reach me** janimiyarj@gmail.com
+- 📫 **How to reach me:** janimiyarj@gmail.com
 
 - ⚡ **Fun fact:** Data scientists spend about 80% of their time cleaning and preparing data, and only 20% of their time actually analyzing it. So, if you think data science is all about making groundbreaking discoveries, think again—it's mostly about scrubbing dirty data!
 
