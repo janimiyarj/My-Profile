@@ -8,6 +8,7 @@ src="https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-s
 <br>
 <img align='right' alt='Coding width = '400' 
 src="https://assets-global.website-files.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif">
+<br>
 
 - 🌱 **I’m currently learning:** NLP, MLOPS,
 
