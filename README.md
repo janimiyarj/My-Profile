@@ -18,8 +18,6 @@ src="https://assets-global.website-files.com/5c19100c2b50073e6ee69da1/60d35967a8
 
 - ⚡ **Fun fact:** Data scientists spend about 80% of their time cleaning and preparing data, and only 20% of their time actually analyzing it. So, if you think data science is all about making groundbreaking discoveries, think again—it's mostly about scrubbing dirty data!
 
-
-<br>
 <br>
 <h3 align="left">Programming Language</h3>
 <p>
