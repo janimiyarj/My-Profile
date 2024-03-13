@@ -1,4 +1,5 @@
-<h1 align="left">Hello 👋, I'm Jani Miya Shaik</h1>
+<h1 align="center">Hello 👋, I'm Jani Miya Shaik</h1>
+<h2 align="center"> A passionate Data Scientist </h2>
 <img align='right' alt='Coding width = '400' 
 src="https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_720_1280/0/1626753867110?e=2147483647&v=beta&t=JOALVxWjySgR37iCdRMhNGmpCyYYDXlPdWk212JXdII">
 <br><br>
