@@ -1,5 +1,6 @@
 <h1 align="left">Hello 👋, I'm Jani Miya Shaik</h1>
-<img align="right" alt='Coding width = '400' src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fmy-leaning-journy-datacamp-wael-dagash&psig=AOvVaw1CF6vMQRRm-kOZCHRk8cZ8&ust=1710456109881000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwiE6ffXp_KEAxWFLDQIHRg4DqYQjRx6BAgAEBY">
+<img align='right' alt='Coding width = '400' 
+src="https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_720_1280/0/1626753867110?e=2147483647&v=beta&t=JOALVxWjySgR37iCdRMhNGmpCyYYDXlPdWk212JXdII">
 
 <p>I am a data enthusiast and motivated student pursuing a Master's degree in Big Data Analytics with a track record of delivering data-driven solutions to challenging business problems. I have expertise in collecting, cleaning, analyzing, visualizing, and modeling data using several AI technologies such as Machine Learning, Python, R, SQL, and Tableau. Building predictive models using machine learning techniques such as regression, classification, clustering, and dimensionality reduction constitutes one of my expertise.</p><p>Additionally, I developed interactive dashboards and reports with Tableau and PowerBI to share insights and discoveries with stakeholders. I am a quick learner who is constantly willing to broaden my skills and knowledge to improve my data science capabilities. I am an effective communicator and team player who can collaborate with cross-functional teams to deliver data-driven solutions.</p>
 
