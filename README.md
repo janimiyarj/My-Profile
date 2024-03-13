@@ -1,8 +1,13 @@
 <h1 align="left">Hello 👋, I'm Jani Miya Shaik</h1>
 <img align='right' alt='Coding width = '400' 
 src="https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_720_1280/0/1626753867110?e=2147483647&v=beta&t=JOALVxWjySgR37iCdRMhNGmpCyYYDXlPdWk212JXdII">
-
-<p>I am a data enthusiast and motivated student pursuing a Master's degree in Big Data Analytics with a track record of delivering data-driven solutions to challenging business problems. I have expertise in collecting, cleaning, analyzing, visualizing, and modeling data using several AI technologies such as Machine Learning, Python, R, SQL, and Tableau. Building predictive models using machine learning techniques such as regression, classification, clustering, and dimensionality reduction constitutes one of my expertise.</p><p>Additionally, I developed interactive dashboards and reports with Tableau and PowerBI to share insights and discoveries with stakeholders. I am a quick learner who is constantly willing to broaden my skills and knowledge to improve my data science capabilities. I am an effective communicator and team player who can collaborate with cross-functional teams to deliver data-driven solutions.</p>
+<br>
+<p>I am a data enthusiast and motivated student pursuing a Master's degree in Big Data Analytics with a track record of delivering data-driven solutions to challenging business problems. I have expertise in collecting, cleaning, analyzing, visualizing, and modeling data using several AI technologies such as Machine Learning, Python, R, SQL, and Tableau. Building predictive models using machine learning techniques such as regression, classification, clustering, and dimensionality reduction constitutes one of my expertise.</p>
+<br>
+<p>Additionally, I developed interactive dashboards and reports with Tableau and PowerBI to share insights and discoveries with stakeholders. I am a quick learner who is constantly willing to broaden my skills and knowledge to improve my data science capabilities. I am an effective communicator and team player who can collaborate with cross-functional teams to deliver data-driven solutions.</p>
+<br>
+<img align='right' alt='Coding width = '400' 
+src="[https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_720_1280/0/1626753867110?e=2147483647&v=beta&t=JOALVxWjySgR37iCdRMhNGmpCyYYDXlPdWk212JXdII](https://assets-global.website-files.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif)">
 
 - 🌱 **I’m currently learning:** NLP, MLOPS,
 
